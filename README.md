@@ -11,6 +11,8 @@ Install:
 
 4. Run 'python MyIP.py'
 
+5. Optional: make it run at boot, as explained here http://www.instructables.com/id/Raspberry-Pi-Launch-Python-script-on-startup/
+
 
 The script will run every 90 minutes, deleting the previous paste and creating a new one, containing the current timestamp
 and your public (Internet) IP
