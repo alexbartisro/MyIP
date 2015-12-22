@@ -3,7 +3,7 @@
 
 
 # MyIP
-Pyton script that get's you public IP and saves it into Pastebin, in casa your DDNS fails
+Pyton script that get's you public IP and saves it into Pastebin, in case your DDNS fails
 
 Install:
 
